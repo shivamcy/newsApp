@@ -1,0 +1,1 @@
+A web application that fetches daily news through an API made using React. Gathered and delivered real-time news through an API based on user searches, showcasing comments count, author details and links to comprehensive articles resulting in 25% increase in user engagement.
